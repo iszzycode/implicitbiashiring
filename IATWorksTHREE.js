@@ -6,7 +6,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/iszzycode/implicitbiashiring/Name
 			name : 'Aboriginal and Torres Strait Islander Peoples', //Will appear in the data.
 			title : {
 				media : {word : 'Aboriginal and Torres Strait Islander Peoples'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#31940F','font-size':'1em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
@@ -24,7 +24,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/iszzycode/implicitbiashiring/Name
 			name : 'Anglo-Australian people', //Will appear in the data.
 			title : {
 				media : {word : 'Anglo-Australian people'}, //Name of the category presented in the task.
-				css : {color:'#31940F','font-size':'2em'}, //Style of the category title.
+				css : {color:'#31940F','font-size':'1em'}, //Style of the category title.
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
