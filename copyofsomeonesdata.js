@@ -40,12 +40,12 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'Tyron'},
-					{word: 'Malik'},
-					{word: 'Terrell'},
-					{word: 'Jazmin'},
-					{word: 'Tiara'},
-					{word: 'Shanice'}
+					{image: 'ATSI face 1'},
+					{image: 'ATSI face 2'},
+					{image: 'ATSI face 3'},
+					{image: 'ATSI face 7'},
+					{image: 'ATSI face 8'},
+					{image: 'ATSI face 9'}
 				],
 				//Stimulus css (style)
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
@@ -58,12 +58,12 @@ define(['pipAPI','pipScorer','underscore'], function(APIConstructor, Scorer, _) 
 					height : 4 //Used to position the "Or" in the combined block.
 				},
 				stimulusMedia : [ //Stimuli content as PIP's media objects
-					{word: 'Jake'},
-					{word: 'Connor'},
-					{word: 'Bradley'},
-					{word: 'Allison'},
-					{word: 'Emma'},
-					{word: 'Emily'}
+					{image: 'anglo face 4'},
+					{image: 'anglo face 5'},
+					{image: 'anglo face 6'},
+					{image: 'Anglo face 10'},
+					{image: 'Anglo face 11'},
+					{image: 'anglo face 12'}
 				],
 				//Stimulus css
 				stimulusCss : {color:'#336600','font-size':'2.3em'}
